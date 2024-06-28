@@ -84,6 +84,7 @@ header > nav{
     height: 303px;
     width: 280px;
     flex-grow: 1;
+    max-width: 280px;
 }
 
 /* RODAPE */
