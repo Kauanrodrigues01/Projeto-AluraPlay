@@ -12,14 +12,14 @@ O projeto visa demonstrar o poder do Flexbox para criar layouts que se ajustam a
 
 ## 🖥️ Imagens do Projeto
 
-### Desktop
+### ‍💻 Desktop
 ![Desktop](img-readme/imagem-projeto-desktop.png)
 
-### Tablet
-![Tablet](img-readme/imagem-projeto-tablet.png)
+### 📟 Tablet
+<img src="img-readme/imagem-projeto-tablet.png" alt="Tablet" width="400">
 
-### Mobile
-![Mobile](img-readme/imagem-projeto-mobile.png)
+### 📱 Mobile
+<img src="img-readme/imagem-projeto-mobile.png" alt="Mobile" width="200">
 
 ---
 
