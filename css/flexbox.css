@@ -84,7 +84,6 @@ header > nav{
     height: 303px;
     width: 280px;
     flex-grow: 1;
-    max-width: 280px;
 }
 
 /* RODAPE */
@@ -175,3 +174,43 @@ header > nav{
         order: 4;
     }
 }
+
+/* Configurando as barras de rolagem*/
+.menu__container::-webkit-scrollbar{
+    width: 6px;
+    height: 6px;
+}
+
+.menu__container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.menu__container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.menu__container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+.superior__secao__container::-webkit-scrollbar{
+    width: 6px;
+    height: 6px;
+}
+
+.superior__secao__container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.superior__secao__container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.superior__secao__container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+} 
