@@ -175,7 +175,7 @@ header > nav{
     }
 }
 
-/* Configurando as barras de rolagem*/
+/* Configuração das barras de rolagem*/
 .menu__container::-webkit-scrollbar{
     width: 6px;
     height: 6px;
